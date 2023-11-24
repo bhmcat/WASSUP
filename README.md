@@ -1,6 +1,13 @@
-### AI 서비스 기획 부트캠프 Wassup 1기
-* date  |  **2023.10.23 - 2024.03.08**
-* Program | <div align=left> 
+<img src="https://gifsec.com/wp-content/uploads/2022/10/high-five-gif-2.gif" width="70%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
+# AI 서비스 기획 부트캠프 Wassup 1기
+---
+
+> ### 📅 Date |  2023.10.23 - 2024.03.08
+
+> ### 🖥️ Program | 
+
+<div align=left> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -12,6 +19,8 @@
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
 
+
+> ### ✏️ Study | 
 
 |분류|내용|
 |:--|:--|
