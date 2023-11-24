@@ -3,12 +3,9 @@
 # AI 서비스 기획 부트캠프 Wassup 1기
 </br>
 
-* Goal : 끝끝내 완수하기
-</br></br>
 
-> ### 📅 Date |  2023.10.23 - 2024.03.08
-
-> ### 🖥️ Program | 
+> ### 📅 2023.10.23 - 2024.03.08
+> ### 🖥️ Program 
 
 <div align=left> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -20,10 +17,8 @@
   <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyterl&logoColor=white">
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
-</br><br>
-
-> ### ✏️ Study | 
-
+</br>
+> ### ✏️ Study
 |분류|내용|
 |:--|:--|
 |**<span style="color:red">Data**</span>|데이터 리터러시의 이해|
@@ -55,6 +50,9 @@
 ||Microsoft - Fluent 2 (Web UI)|
 ||Apple - Design Human interface guidelines|
 ||GoodUI Principle|
-</br></br></br><br/>
 
+---
+
+
+ 🎯끝끝내 완수할 것 </br>
 
