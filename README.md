@@ -5,8 +5,7 @@
 
 
 > ### 📅 2023.10.23 - 2024.03.08
-> ### 🖥️ Program 
-
+> ### 🖥️ Program
 <div align=left> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -18,7 +17,10 @@
   <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
 </br>
+
+
 > ### ✏️ Study
+
 |분류|내용|
 |:--|:--|
 |**<span style="color:red">Data**</span>|데이터 리터러시의 이해|
