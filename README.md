@@ -1,5 +1,3 @@
-<img src="https://gifsec.com/wp-content/uploads/2022/10/high-five-gif-2.gif" width="100%" height="70%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/><br/>
-
 # AI 서비스 기획 부트캠프 Wassup 1기
 </br>
 
